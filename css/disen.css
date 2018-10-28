@@ -1,0 +1,83 @@
+h2 {
+
+	color: : #F47920;
+
+	background:  #005883 ;
+width: 500px;
+height: 50px;
+	font-size: 30px;
+
+
+}
+
+#info{
+
+background: #333;
+color: #fff;
+overflow: hidden;
+
+}
+
+
+#info.contenedor {
+
+
+background: #930;
+padding: 10px;
+overflow: hidden;
+
+
+
+}
+
+.super {
+	
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+margin: 20px
+
+}
+
+.info.super{
+	
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+
+}
+
+h4{
+background: #A54686;
+padding: 10px;
+overflow: hidden;
+  }
+
+  #contenedor {
+
+background: #005883;
+padding: 12px;
+overflow: hidden;
+
+
+}
+
+
+#izquierda{
+	float: left;
+padding: 10px;
+color: #333333;
+width: 300px;
+margin: 40px;
+background: #F0B429
+
+}
+
+#derecha{
+	float: left;
+padding: 10px;
+color: #333333;
+width: 300px;
+margin: 40px;
+background: #F0B429
